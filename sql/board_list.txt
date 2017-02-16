@@ -1,0 +1,5 @@
+india, India, 1
+b, Random, 1
+sci, Science and Math, 1
+g, Technology, 1
+meta, meta, 1
